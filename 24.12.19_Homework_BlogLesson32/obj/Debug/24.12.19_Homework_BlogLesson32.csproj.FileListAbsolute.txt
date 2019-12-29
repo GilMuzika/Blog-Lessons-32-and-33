@@ -1,0 +1,13 @@
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\24.12.19_Homework_BlogLesson32.exe.config
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\24.12.19_Homework_BlogLesson32.exe
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\24.12.19_Homework_BlogLesson32.pdb
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\24.12.19_Homework_BlogLesson32.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\_24._12._19_Homework_BlogLesson32.MainForm.resources
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\_24._12._19_Homework_BlogLesson32.Properties.Resources.resources
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\24.12.19_Homework_BlogLesson32.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\24.12.19_Homework_BlogLesson32.csproj.CopyComplete
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\24.12.19_Homework_BlogLesson32.exe
+C:\Users\Gil\source\repos\24.12.19_Homework_BlogLesson32\24.12.19_Homework_BlogLesson32\obj\Debug\24.12.19_Homework_BlogLesson32.pdb
